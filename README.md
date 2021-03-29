@@ -1,4 +1,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=liyishuai&include_all_commits=true&count_private=true&show_icons=true&locale=cn)  
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liyishuai&layout=compact)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liyishuai&layout=compact&langs_count=10&locale=cn)](https://github.com/anuraghazra/github-readme-stats)  
+![Wakatime stats](https://wakatime.com/share/@liyishuai/789e78da-042b-45c3-8361-1d0fc6048324.svg)  
 ![ViewCount](https://komarev.com/ghpvc/?username=liyishuai)
